@@ -54,3 +54,12 @@
 .author {
   font-weight: bold;
 }
+
+.important {
+  background-color: yellow;
+}
+
+.text-content {
+  margin-top: 20px;
+
+}
