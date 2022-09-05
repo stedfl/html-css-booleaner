@@ -84,7 +84,7 @@ ul {
 
 .table .left {
   width: 23%;
-  line-height: 100%;
+  vertical-align: middle;
 }
 
 .table .right {
