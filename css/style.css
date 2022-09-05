@@ -70,11 +70,32 @@ ul {
 .table {
   width: 1000px;
   height: auto;
-  background-color: #20a9e5;
-  color: white;
   margin-top: 20px;
 }
 
-.element {
-  display: inline;
+.table-title .element {
+  display: inline-block;
+  font-weight: bold;
+ 
+  color: white;
+}
+
+.table-title .left {
+  width: 23%;
+}
+
+.table-title .right {
+  width: 50%;
+}
+
+.table-title {
+  background-color: #20a9e5;
+}
+
+.table-alternative {
+  background-color: #b1e5f2;
+}
+
+.table-plain {
+  background-color: white;
 }
