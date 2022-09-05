@@ -74,17 +74,16 @@ ul {
 }
 
 .table-title .element {
-  display: inline-block;
   font-weight: bold;
- 
   color: white;
 }
 
-.table-title .left {
+.table .left {
   width: 23%;
+  line-height: 100%;
 }
 
-.table-title .right {
+.table .right {
   width: 50%;
 }
 
@@ -99,3 +98,30 @@ ul {
 .table-plain {
   background-color: white;
 }
+
+.table .element {
+  display: inline-block;
+}
+
+.final-content {
+  margin-top: 20px;
+}
+
+.text-interest {
+  margin-top: 30px;
+}
+
+.text-interest p {
+  font-weight: bold;
+  color:#808080;
+}
+
+.box-photo {
+  width: 50px;
+  height: 50px;
+  background-color: red;
+}
+
+
+
+
