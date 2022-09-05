@@ -23,8 +23,29 @@
 }
 
 
-h1 {
+title {
   text-align: justify;
   padding-top: 10px;
   
+}
+
+.author, .date-writing {
+  color: #808080;
+
+}
+
+.author-specific {
+  color: #20a9e5;
+}
+
+.date-writing {
+  font-size: 12px;
+}
+
+.tim-photo {
+  margin-top: 20px;
+}
+
+.description-photo {
+  font-size: 5px;
 }
