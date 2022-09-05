@@ -7,25 +7,24 @@
   height: 80px;
   background-color: #4ea0ff;
   background-image: url(/img/pattern.png);
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position:top;
   font-family: 'Roboto', sans-serif;
   color: white;
-  padding-top:20px;
   font-weight: bold;
+
 }
 
-.up-title {
-  font-size: 20px;
-  padding-left: 50px;
+.logo {
+ background-image: url(/img/logo.svg);
+ width: 200px;
+ height: auto;
+ margin-left: 10px;
 }
 
-.down-title {
-  font-size: 50px;
-  padding-left: 20px;
-}
 
 h1 {
   text-align: justify;
+  padding-top: 10px;
   
 }
